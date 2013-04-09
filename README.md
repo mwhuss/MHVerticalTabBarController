@@ -4,7 +4,7 @@
 
 MHVerticalTabBarController is a custom vertical tab bar controller that works on iPhone and iPad and allows easy customization.
 
-![Screenshot](http://d1zjcuqflbd5k.cloudfront.net/files/acc_366/bMmN?response-content-disposition=inline;%20filename=Screenshot%20on%202013-04-08%20at%2020.59.26.png;%20filename*=UTF-8%27%27Screenshot%20on%202013-04-08%20at%2020.59.26.png&Expires=1365469289&Signature=Y8mae5ysvQzyRShtZhbggT8y~duZIOckRgoQdpSEUMtcbbPuUkxrIO1wHsiTivZyhiDax1dIk~f~xjBzDRTibxP~Z3m5qwhPurbPdD3ORCuuqkd6azszVBmao1nHVJoQ44ufRF-Dtg4JIFOJv-iM1zV68SlFdzFkAkxbEP8qkmk_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+![Screenshot](http://f.cl.ly/items/3d3D122U3X3O2Q1s2a2M/tabbar-ipad.png)
 
 ## Installation
 
@@ -83,7 +83,7 @@ selectedBackgroundView.backgroundColor = [UIColor clearColor];
 [selectedBackgroundView addSubview:roundedView];
 ```
 
-![Selected background view](http://d1zjcuqflbd5k.cloudfront.net/files/acc_366/zEVd?response-content-disposition=inline;%20filename=Screenshot%20on%202013-04-08%20at%2021.01.15.png;%20filename*=UTF-8%27%27Screenshot%20on%202013-04-08%20at%2021.01.15.png&Expires=1365469399&Signature=PPDSwmEgczCAf5bFvqHmB5qfSx8BVfmBCwP8yDkvKHjahKS~SlULS5F1cXZNsC7dv3~eLkSYmVuTQV4z6RkA9domgiKqkK3gpiiQRJuJJEpFiEyk0fv3tXnDTGeSUaZgee1BHoaI~XjF~nfxo~7K1331bYD5y7gbqnAvLDUvnFw_&Key-Pair-Id=APKAJTEIOJM3LSMN33SA)
+![Selected background view](http://f.cl.ly/items/020W1I3q0T363h1F0H0v/tabbar-iphone.png)
 
 
 The tab bar also has a method to use an image as the selected background.
